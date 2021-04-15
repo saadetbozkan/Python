@@ -1,2 +1,2 @@
-# Pythonn
+# Python
  Python başlangıç kod egzersizleri
